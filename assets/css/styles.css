@@ -20,8 +20,8 @@ p, .jumbotron p {
 	line-height: 1.6em;
 }
 
-a{ color: blue; }
-a:hover, a:focus { color: red; }
+a{ color:#D87563; }
+a:hover, a:focus { color: #D87563; }
 a:visited { color: #D87563; }
 
 /********************************************************/
